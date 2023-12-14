@@ -1,1 +1,1 @@
-A demonstration of an Azure MCV Core applicatoin with a Fabric node backend.
+A demonstration of an Azure MCV Core application with a Fabric node backend.
